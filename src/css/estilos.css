@@ -1,0 +1,42 @@
+body {
+  background-color: #f7f7f7 !important;
+}
+
+.imgBorja {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+}
+
+.iconSidenav {
+  font-size: 1.75em;
+}
+
+.sidenav---sidenav---_2tBP {
+  background: #254e58;
+  font-family: sans-serif;
+}
+
+.sidenav---sidenav-nav---3tvij
+  > .sidenav---sidenav-navitem---uwIJ-.sidenav---highlighted---oUx9u
+  > .sidenav---navitem---9uL5T::after {
+  background: #4cbafd !important;
+  opacity: 0.4;
+}
+
+.sidenav---sidenav-nav---3tvij
+  > .sidenav---sidenav-navitem---uwIJ-
+  > .sidenav---navitem---9uL5T
+  .sidenav---navtext---1AE_f {
+  color: white;
+  font-weight: bold;
+}
+
+.sidenav---sidenav-nav---3tvij
+  > .sidenav---sidenav-navitem---uwIJ-
+  > .sidenav---navitem---9uL5T
+  .sidenav---navicon---3gCRo
+  > * {
+  color: white;
+}
